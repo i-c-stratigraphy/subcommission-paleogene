@@ -1,0 +1,15 @@
+---
+title: Subcommission on Paleogene Stratigraphy
+description: The International Commission on Stratigraphy's Subcommission on Paleogene
+  Stratigraphy.
+url: https://i-c-stratigraphy.github.io
+baseurl: "/subcommission-paleogene"
+theme: minima
+plugins:
+- jekyll-feed
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- vendor
+- LICENSE
